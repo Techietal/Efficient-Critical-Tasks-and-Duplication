@@ -1,0 +1,6 @@
+cpop : 1257.75
+heft : 987
+ippts : 1097
+lstd : 988.083
+mpeft : 991.5
+peft : 1013

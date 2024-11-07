@@ -1,0 +1,7 @@
+cpop : 916.9
+heft : 747.1
+ippts : 774.6
+lstd : 743.5
+mpeft : 667.8
+peft : 661.5
+new : 662.8

@@ -1,0 +1,7 @@
+cpop : 0.05
+heft : 0.05
+ippts : 0.05
+lstd : 0.05
+mpeft : 0.05
+peft : 0.05
+new : 0.05
